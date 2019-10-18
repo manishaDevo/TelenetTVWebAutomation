@@ -93,8 +93,8 @@ class KeywordHelper {
 		 ImageIO.write(screenshot.getImage(), "PNG", new File(path))*/
 
 
-		JavascriptExecutor jse = (JavascriptExecutor)driver
-		jse.executeScript("arguments[0].setAttribute('style','background: red;');", element)
+		//JavascriptExecutor jse = (JavascriptExecutor)driver
+		//jse.executeScript("arguments[0].setAttribute('style','background: red;');", element)
 		Screenshot screenshot = new AShot().coordsProvider(new WebDriverCoordsProvider()).takeScreenshot(driver,element);
 		ImageIO.write(screenshot.getImage(), "PNG", new File(path))
 

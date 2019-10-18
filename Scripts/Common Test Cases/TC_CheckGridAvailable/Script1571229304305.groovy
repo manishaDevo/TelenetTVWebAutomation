@@ -25,17 +25,33 @@ program = "Air Crash Investigation"
 	
 
     WebUI.openBrowser("https://www.telenettv.be/en.html")
+	
+	WebUI.maximizeWindow()
 
     WebUI.delay(2)
+	
+	cookies_objs = WebUI.findWebElements(findTestObject('Object Repository/Page_Home/Obj_cookies'),2)
+	
+	for (WebElement opt : cookies_objs){
+		opt
+	}
+	if(cookies_objs.size()> 0){
+	
+	WebUI.click(findTestObject('Object Repository/Page_Home/Obj_cookies'))
+	}
 
+	WebUI.refresh()
+	
+	WebUI.delay(5)
 	Date today = new Date()
 	
 	String todaysDate = today.format("d/MM/yy")
+	
 	String nowTime = today.format("hh:mm")
 	println(todaysDate)
 	println (nowTime)
 	
-	Date futuredate = new Date().plus(14)
+	Date futuredate = new Date().plus(5)
 	Date pastdate = new Date().minus(7)
 	
 	String futuredateS = futuredate.format("d")
@@ -82,7 +98,7 @@ program = "Air Crash Investigation"
 	WebUI.verifyElementPresent(futuredateObject, 2, FailureHandling.STOP_ON_FAILURE)
 	
 	
-	WebUI.delay(2)
+	WebUI.delay(5)
 	
 	WebUI.click(futuredateObject)
 	
@@ -93,7 +109,7 @@ program = "Air Crash Investigation"
 	
 	def imgDir = RunConfiguration.getProjectDir() + '/Screenshots/Reference'
 	
-	name = (imgDir + '/TVGuideTimeGrid')
+	name = (imgDir + '/TVGuideTimeGrid1.png')
 	
 	TestObject timegrid = findTestObject('Object Repository/Page_TV Guide/div_EPGGrid_till12')
 
