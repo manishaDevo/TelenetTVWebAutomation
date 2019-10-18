@@ -4,6 +4,7 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+<<<<<<< HEAD
    <GlobalVariableEntity>
       <description></description>
       <initValue>10</initValue>
@@ -79,4 +80,6 @@
       <initValue>'ON'</initValue>
       <name>G_Cookies</name>
    </GlobalVariableEntity>
+=======
+>>>>>>> branch 'master' of https://github.com/manishaDevo/TelenetTVWebAutomation.git
 </GlobalVariableEntities>
