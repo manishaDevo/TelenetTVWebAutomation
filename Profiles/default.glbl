@@ -76,7 +76,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'OFF'</initValue>
+      <initValue>'ON'</initValue>
       <name>G_Cookies</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
