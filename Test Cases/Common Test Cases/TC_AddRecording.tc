@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddRecording</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57f1c0ba-ce7a-432c-9372-6515965b4705</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Page_TV Guide/div_Misfit Garage')</defaultValue>
+      <description></description>
+      <id>db5f3da1-16a3-464b-ace4-3b541a6d00a5</id>
+      <masked>false</masked>
+      <name>seriesObj</name>
+   </variable>
+</TestCaseEntity>

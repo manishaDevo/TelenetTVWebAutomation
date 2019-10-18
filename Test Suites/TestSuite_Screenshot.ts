@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite_Screenshot</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>18007a9d-7601-4d61-9e2f-e9b15018bffc</testSuiteGuid>
+   <testCaseLink>
+      <guid>d9e1ba1c-8bd5-413a-8b59-92784a509d75</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5729914f-c3f9-4ad0-aacf-23d86349f15b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Credentials</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5729914f-c3f9-4ad0-aacf-23d86349f15b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>b77eb6e9-315f-48e0-885b-a7d5c0b4a983</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5729914f-c3f9-4ad0-aacf-23d86349f15b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pwd</value>
+         <variableId>ef821881-fc7c-4ff1-b703-1d708c21f86e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5729914f-c3f9-4ad0-aacf-23d86349f15b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Env</value>
+         <variableId>b7ee6387-0d48-4d4f-a25f-88148000ef38</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6a31dc6a-a3df-4563-8213-f4f93099d740</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases/TC_Screenshot</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

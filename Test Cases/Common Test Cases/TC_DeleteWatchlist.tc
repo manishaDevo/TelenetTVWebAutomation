@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_DeleteWatchlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de0c4ace-bffc-4dd0-bdeb-e41febc51942</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Page_Movies/img_Fantastic')</defaultValue>
+      <description></description>
+      <id>016dfd09-f003-4892-9f50-c81c80384b05</id>
+      <masked>false</masked>
+      <name>mediaObj</name>
+   </variable>
+</TestCaseEntity>

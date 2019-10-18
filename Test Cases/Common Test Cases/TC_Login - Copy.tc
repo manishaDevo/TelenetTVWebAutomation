@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bab852a-bbd8-4df2-abc1-a35409dc2310</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5bc0988c-12ca-4c66-9323-b4c318445f0f</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1e1f5eb-cc4a-4152-9790-f20f97426474</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15413667-b7d6-4259-8126-2aa7fe865011</id>
+      <masked>false</masked>
+      <name>Env</name>
+   </variable>
+</TestCaseEntity>

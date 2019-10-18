@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Option_English</name>
+   <tag></tag>
+   <elementGuidId>eccba83a-ed70-453f-81fe-f7e466af4a84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'English')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/ul/li[2]/a</value>
+   </webElementProperties>
+</WebElementEntity>

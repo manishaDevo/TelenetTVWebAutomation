@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Consumption</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6904c40a-51b1-4339-a4e8-8a144ad83b44</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86a16c4a-9ab6-469e-9993-aba7d4949535</id>
+      <masked>false</masked>
+      <name>nURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10fb3d50-00c6-4083-8d51-ce149cb54bde</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3631d541-a56e-48b3-b3a8-42ea29598175</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

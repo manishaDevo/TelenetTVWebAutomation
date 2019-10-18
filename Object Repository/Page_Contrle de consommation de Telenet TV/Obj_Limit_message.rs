@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Obj_Limit_message</name>
+   <tag></tag>
+   <elementGuidId>2fb098fe-a584-4eb6-a864-3bcc3187ccd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='ng-app']/div[5]/div/div[5]/div[4]/div[3]/section/div/div[2]/div/div/div[2]/div/div/div/login-message/div/div/div/spinner/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Votre limite est mise à jour...' or . = 'Votre limite est mise à jour...')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>message</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Votre limite est mise à jour...</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ng-app&quot;)/div[@class=&quot;upc-wrapper&quot;]/div[@class=&quot;upc-content-wrapper&quot;]/div[@class=&quot;upc-body-wrapper&quot;]/div[@class=&quot;upc-bgcontainer-center_nospot ocppage&quot;]/div[@class=&quot;upc_container_fullwidth&quot;]/section[1]/div[@class=&quot;one-care-portal&quot;]/div[@class=&quot;ocp-article&quot;]/div[@class=&quot;article-container parbase&quot;]/div[@class=&quot;article-container&quot;]/div[@class=&quot;article-middle&quot;]/div[@class=&quot;parsys&quot;]/div[@class=&quot;dtv-limits parbase section&quot;]/div[@class=&quot;ng-scope&quot;]/login-message[@class=&quot;ng-isolate-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/spinner[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;loading-content&quot;]/div[@class=&quot;ng-binding&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='ng-app']/div[5]/div/div[5]/div[4]/div[3]/section/div/div[2]/div/div/div[2]/div/div/div/login-message/div/div/div/spinner/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digibox/Digicorder'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='détails de consommation'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examinez quelques causes possibles'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//spinner/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

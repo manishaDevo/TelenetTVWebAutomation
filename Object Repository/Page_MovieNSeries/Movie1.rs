@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Movie1</name>
+   <tag></tag>
+   <elementGuidId>8082e456-c272-4e97-bdce-54f450f0ba68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;_content_www2-horizon-tv_en_be_movies-and-series_movies_jcr_content_par_target&quot;]/div/div[2]/div/div/div/div[2]/div/div[1]/div/div[1]/div/div[1]/a/div/span/img</value>
+   </webElementProperties>
+</WebElementEntity>

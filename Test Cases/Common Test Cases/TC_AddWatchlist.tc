@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddWatchlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e232a869-0d4d-41fa-8c3f-8116fb077148</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Page_Movies/img_Fantastic')</defaultValue>
+      <description></description>
+      <id>750f4318-710d-489b-af0b-28b6f7c10db0</id>
+      <masked>false</masked>
+      <name>mediaObj</name>
+   </variable>
+</TestCaseEntity>
