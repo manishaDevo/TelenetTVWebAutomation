@@ -52,4 +52,4 @@ def imgDir = RunConfiguration.getProjectDir() + '/Screenshots/'
 		String offset_begin = CustomKeywords.'utilities.KeywordHelper.getQueryParams'(VideoURL, "offset")
 	
 		
-		println(" offset_begin" + offset_begin)
+		println(" offset_beginat" + offset_begin)
